@@ -98,3 +98,6 @@ X-Frame-Options: DENY
     "title": ""
 }
 ```
+
+Parte 1 concluída: https://www.django-rest-framework.org/tutorial/1-serialization/
+Parte 2: https://www.django-rest-framework.org/tutorial/2-requests-and-responses/
