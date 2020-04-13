@@ -100,4 +100,5 @@ X-Frame-Options: DENY
 ```
 
 ##### Parte 1 concluída: https://www.django-rest-framework.org/tutorial/1-serialization/
-##### Parte 2: https://www.django-rest-framework.org/tutorial/2-requests-and-responses/
+##### Parte 2 concluída: https://www.django-rest-framework.org/tutorial/2-requests-and-responses/
+##### parte 3: https://www.django-rest-framework.org/tutorial/3-class-based-views/
