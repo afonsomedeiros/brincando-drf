@@ -104,4 +104,6 @@ X-Frame-Options: DENY
 ##### Parte 3 concluída: https://www.django-rest-framework.org/tutorial/3-class-based-views/
 ##### Parte 4 concluída: https://www.django-rest-framework.org/tutorial/4-authentication-and-permissions/
 ##### Parte 5 concluída: https://www.django-rest-framework.org/tutorial/5-relationships-and-hyperlinked-apis/
-##### Parte 6: https://www.django-rest-framework.org/tutorial/6-viewsets-and-routers/
+##### Parte 6 concluída: https://www.django-rest-framework.org/tutorial/6-viewsets-and-routers/
+
+##### Próximo passo: Desenvolver um projeto que utilize todos os recursos apresentados no 6 Tutoriais + Autenticação (preferencialmente por token).
