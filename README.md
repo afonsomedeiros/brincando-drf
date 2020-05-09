@@ -103,4 +103,5 @@ X-Frame-Options: DENY
 ##### Parte 2 concluída: https://www.django-rest-framework.org/tutorial/2-requests-and-responses/
 ##### Parte 3 concluída: https://www.django-rest-framework.org/tutorial/3-class-based-views/
 ##### Parte 4 concluída: https://www.django-rest-framework.org/tutorial/4-authentication-and-permissions/
-##### Parte 5: https://www.django-rest-framework.org/tutorial/5-relationships-and-hyperlinked-apis/
+##### Parte 5 concluída: https://www.django-rest-framework.org/tutorial/5-relationships-and-hyperlinked-apis/
+##### Parte 6: https://www.django-rest-framework.org/tutorial/6-viewsets-and-routers/
